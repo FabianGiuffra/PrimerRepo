@@ -1,2 +1,2 @@
-Ya aprendí
-a aprendí a crear un archivo y guardar mi primer commit.
+Estoy aprendiendo Git y GitHub para mi proyecto PacMania.
+Ya aprendí a crear un archivo y guardar mi primer commit.
